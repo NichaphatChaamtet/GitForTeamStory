@@ -7,8 +7,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
-   ![castle](img1.png)
+1. กาลครั้งหนึ่งนานมาแล้ว มีปราสาทที่สวยงามตั้งอยู่บนเนินเขาเล็ก ๆ ภายในปราสาทมีนักวิทยาศาสตร์ชื่อแจ็ค อาศัยอยู่กับแมวพูดได้ชื่อโมจิ ทั้งสองชอบสร้างสิ่งประดิษฐ์แปลก ๆ ด้วยกัน
+   ![castle](/img/castle.png)
 
 2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
    (Nobody is sure yet.)
