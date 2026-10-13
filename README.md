@@ -19,7 +19,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 ทันใดนั้นก็เกิดเสียง "ตูม!" ดังสนั่น แทนที่มังกรจะหยุดทำงาน สิ่งนั้นกลับเปิดประตูมิติวิเศษขึ้นมาโดยไม่ตั้งใจ
 
 4. แจ็ค โมจิ และมังกรหุ่นยนต์ถูกดูดเข้าไปในประตูมิติ ก่อนจะตกลงบนเกาะลึกลับแห่งหนึ่ง พวกเขาพบหีบสมบัติสีทองอยู่ใต้ต้นมะพร้าว เมื่อเปิดออกก็พบแผนที่เก่า ๆ พร้อมข้อความว่า "จงออกเดินทางตามหาสมบัติลับที่ซ่อนอยู่ในอวกาศ!"
-   ![treasure chest](/img/treasure_large.png)[cite: 1]
+   ![treasure chest](/img/treasure_large.png)
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
