@@ -14,7 +14,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![dragon](/img/dragon.png)
 
 
-3. The scientist shouted something very important but nobody wrote it down.  
+ 3. เเจ็คเห็นเเละจำได้ว่ามันคือมังกรหุ่นยนต์ที่เขาเคยสร้างไว้เเต่เขาดันลืมวิธีปิดมัน เเจ็คหาหนทางเเก้เขาเลยตะโกนว่า 
+ "ไม่ต้องกลัว! ฉันจัดการเอง!" ก่อนจะกดปุ่มสีแดงบนตัวของมังกรหุ่นยนต์
+ทันใดนั้นก็เกิดเสียง "ตูม!" ดังสนั่น แทนที่มังกรจะหยุดทำงาน สิ่งนั้นกลับเปิดประตูมิติวิเศษขึ้นมาโดยไม่ตั้งใจ
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
