@@ -28,7 +28,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
 
-8. The cat was supposed to talk here, but the line is missing.  
+8. เมื่อโมจิตื่นขึ้นมาและมองออกไปนอกหน้าต่าง มันก็ตะโกนว่า
+"อะไรนะ!? นี่เราอยู่ในอวกาศเหรอ!? ฉันยังไม่ได้กินข้าวเช้าเลยนะ!"
+ทุกคนหัวเราะออกมา ก่อนที่มังกรหุ่นยนต์จะยื่นขนมปลาที่ลอยอยู่กลางอากาศให้โมจิกิน
 
 9.  ในป่าลึก, นักสืบได้ค้นพบผีตลกตัวหนึ่งกำลังหัวเราะร่าเริงพร้อมกับเปิดหีบสมบัติเพื่อโชว์แผนที่ลับที่ซ่อนอยู่ข้างใน
    ![ghost](/img/ghost.png)
